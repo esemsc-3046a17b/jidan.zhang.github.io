@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student of Applied Computational Science and Engineering in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) at [Imperial College London](https://www.imperial.ac.uk/). My research interests include remote sensing, computer vision, and polar studies. I am always open to discussions and look forward to exchanging ideas!  
+I'm a postgraduate student of Applied Computational Science and Engineering in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) at [Imperial College London](https://www.imperial.ac.uk/). My research interests include but are not limited to remote sensing, computer vision, and polar studies. I am always open to discussions and look forward to exchanging ideas!  
 
-Previously, I was supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603) of Advanced Remote Sensing Techniques for 3D Information Acquisition and Processing Team at [School of Geospatial Engineeing and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I also conducted research on sub-glacial lakes beneath the Greenland Ice Sheet under the supervision of [Prof. Qi Liang](https://sges.sysu.edu.cn/teacher/605) at [School of Geospatial Engineeing and Science](https://sges.sysu.edu.cn/) and [Polar Science Center Sun Yat-sen University](https://psc.sysu.edu.cn/).
+Previously, I got my bachelor's degree in the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) in 2024. I was supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603) of Advanced Remote Sensing Techniques for 3D Information Acquisition and Processing Team in [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I also conducted research on sub-glacial lakes beneath the Greenland Ice Sheet under the supervision of [Prof. Qi Liang](https://sges.sysu.edu.cn/teacher/605) in the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) and [Polar Science Center Sun Yat-sen University](https://psc.sysu.edu.cn/).
 
 News
 ------
