@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Jidan Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Jidan Zhang"
 description              : &description "personal description"
