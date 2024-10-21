@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jidan Zhang's Homepage"
+title: "About Me"
 excerpt: "Jidan Zhang's Homepage"
 author_profile: true
 redirect_from: 
