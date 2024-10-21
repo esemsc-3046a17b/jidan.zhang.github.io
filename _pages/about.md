@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Jidan Zhang's Homepage"
+excerpt: "Jidan Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a postgraduate student of Applied Computational Science and Engineering in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) at [Imperial College London](https://www.imperial.ac.uk/). My research interests include but are not limited to remote sensing, computer vision, and polar studies. I am always open to discussions and look forward to exchanging ideas!  
+I'm a master's student of Applied Computational Science and Engineering in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) at [Imperial College London](https://www.imperial.ac.uk/). My research interests include but are not limited to remote sensing, computer vision, and polar studies. I am always open to discussions and look forward to exchanging ideas!  
 
-Previously, I got my bachelor's degree in the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) in 2024. I was supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603) of Advanced Remote Sensing Techniques for 3D Information Acquisition and Processing Team in [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I also conducted research on sub-glacial lakes beneath the Greenland Ice Sheet under the supervision of [Prof. Qi Liang](https://sges.sysu.edu.cn/teacher/605) in the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) and [Polar Science Center Sun Yat-sen University](https://psc.sysu.edu.cn/).
+Previously, I obtained my bachelor's degree from the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024. I was supervised by [Prof. Xu Huang](https://sges.sysu.edu.cn/teacher/603) of the [3D Information Acquisition and Processing Team](https://sges.sysu.edu.cn/team/02), where I focused on feature matching under challenging conditions. I also conducted research on subglacial lakes beneath the Greenland Ice Sheet under the supervision of [Prof. Qi Liang](https://sges.sysu.edu.cn/teacher/605) from the [Polar Science Center Sun Yat-sen University](https://psc.sysu.edu.cn/), utilizing remote sensing data to detect and analyze the filling and drainage of these lakes.
 
 News
 ------
